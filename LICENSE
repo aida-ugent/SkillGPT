@@ -1,0 +1,14 @@
+Copyright (c) 2023 Ghent University with offices at Technologiepark 122,  9052 Ghent, Belgium - Email: nan.li@ugent.be, bo.kang@ugent.be, tijl.debie@ugent.be.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software for non-commercial educational and non-commercial research use, including without limitation the rights to use, copy, modify, merge, publish, distribute and/or sublicense copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+1. The above copyright notice and this permission notice shall be included in all copies of the Software and derivatives thereof.
+
+2. Permission is restricted to non-commercial educational and non-commercial research use: the use of the Software is allowed for academic teaching purposes and for purely academic research. Usage by non-academic parties is allowed in a strict research environment only. The use of the results of such research for commercial purposes or inclusion in commercial activities requires the permission of Ghent University.
+
+3. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+4. The user agrees to acknowledge the provider of the software in publications mentioning results that were obtained with the help of the software by citing the following paper: N. Li, B. Kang, T. De Bie, "SkillGPT: a RESTful API service for skill extraction and standardization using a Large Language Model," 2023 (under review).
+
+5. If the software is embedded in a derived research result (e.g. a demonstrator), the user will make sure that the presence of the software is visible to the users of that product (e.g. by putting ___"uses SkillGPT (Copyright (c) Ghent University)"___ in the GUI or welcome screen).
+
