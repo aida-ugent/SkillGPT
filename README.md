@@ -5,6 +5,8 @@ IDLAB - Department of Electronics and Information Systems (ELIS), Ghent Universi
 
 Submitted to the ECML-PKDD demo track 2023
 
+### [Paper](https://arxiv.org/abs/2304.11060)
+
 ### [Demo Video](http://bokang.io/videos/SkillGPT.mp4)
 
 ## Requirements
