@@ -3,8 +3,6 @@ Nan Li, Bo Kang, Tijl De bie
 
 IDLAB - Department of Electronics and Information Systems (ELIS), Ghent University
 
-Submitted to the ECML-PKDD demo track 2023
-
 ### [Paper](https://arxiv.org/abs/2304.11060)
 
 ### [Demo Video](http://bokang.io/videos/SkillGPT.mp4)
