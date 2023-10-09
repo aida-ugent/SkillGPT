@@ -1,0 +1,5 @@
+FROM skillgptbase:latest
+
+COPY . /app/
+
+CMD ["python", "-m", "api"]

@@ -1,0 +1,31 @@
+version: '3'
+
+services:
+  base:
+    build:
+      context: .
+      dockerfile: Dockerfile.base
+    image: skillgptbase:latest
+
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile.api
+    depends_on:
+      - redis
+    command: python -m api
+
+  gradio:
+    build:
+      context: .
+      dockerfile: Dockerfile.gradio
+    depends_on:
+      - api
+    command: python gradio_server.py
+
+  redis:
+    image: redis/redis-stack-server:latest
+    container_name: redis-stack-server
+    ports:
+      - "6379:6379"
+
