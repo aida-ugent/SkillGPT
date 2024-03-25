@@ -67,3 +67,6 @@ Set the following settings in `.env`
 4. Process via API requests. See examples in `api_request.ipynb`.
 
 5. (Optional) initalize Redis vector DB. See example in the last cell "Initialize ESCO embeddings" in `api_request.ipynb`.
+
+## Access to the embedding files
+Please fill in the form https://forms.gle/vKXKxCegWjzni1aM7 .
